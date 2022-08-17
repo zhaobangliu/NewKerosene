@@ -1,0 +1,5 @@
+images/
+raw_data/アポロ給油データ/
+**/raw_data/1-sensor-histories.csv
+.ipynb_checkpoints/
+__pycache__/
